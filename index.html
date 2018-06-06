@@ -31,10 +31,11 @@
 				console.log('Welcome!  Fetching your information.... ');
 				FB.api('/me', function(response) {
 					console.log('Good to see you, ' + response.name + '.');
-					document.getElementById("imie").innerHTML = response.name + '!';
+					document.getElementById("imie").innerHTML = "Imię i nazwisko zalogowanej osoby: " + response.name + '!';
 				});
 			} else {
 				console.log('User cancelled login or did not fully authorize.');
+				document.getElementById("imie").innerHTML = 'Niestety nie zalogowano';
 			}
 		});
 	}
