@@ -5,47 +5,6 @@
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <body>
-	<div id="fb-root"></div>
-	<script>
-	window.fbAsyncInit = function() {
-		FB.init({
-		appId      : '2078456029075737',
-		cookie     : true,
-		xfbml      : true,
-		version    : 'v3.0'
-		});
-		FB.AppEvents.logPageView();
-	};
-	
-	(function(d, s, id) {
-	  var js, fjs = d.getElementsByTagName(s)[0];
-	  if (d.getElementById(id)) return;
-	  js = d.createElement(s); js.id = id;
-	  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0&appId=2078456029075737&autoLogAppEvents=1';
-	  fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-	
-	function login(){
-		FB.login(function(response) {
-			if (response.authResponse) {
-				console.log('Welcome!  Fetching your information.... ');
-				FB.api('/me', function(response) {
-					console.log('Good to see you, ' + response.name + '.');
-					document.getElementById("imie").innerHTML = "Imię i nazwisko zalogowanej osoby: " + response.name + '!';
-				});
-			} else {
-				console.log('User cancelled login or did not fully authorize.');
-				document.getElementById("imie").innerHTML = 'Niestety nie zalogowano poprawnie.';
-			}
-		});
-	}
-	
-	</script>
-	Strona z https, specjalnie na zajęcia Programowanie w Internecie. Grzegorz Sołdatowski.
-	<br>
-	<button onClick="login()">Zaloguj się do Facebooka</button>
-	<br>
-	<div>Jeśli zalogujesz się do facebooka, Twoje imię i nazwisko pojawi się poniżej</div>
-	<div id="imie"></div>
+	<div><p>Seems like 200, but it's 404 actually</p></div>
 </body>
 </html>
