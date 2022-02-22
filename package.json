@@ -28,7 +28,7 @@
     "move": "mkdir docs && cp -r ./build/* ./docs && git add --all",
     "git-stuff": "git commit -m \"published on ($date)\" && git push",
     "delete_folders": "rm -rf ./build && rm -rf ./docs",
-    "publish": "npm run delete_folders && npm run predeploy && npm run deploy && npm run move && npm run git-stuff"
+    "publish": "npm run delete_folders && npm run deploy && npm run move && npm run git-stuff"
   },
   "eslintConfig": {
     "extends": [
