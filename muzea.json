@@ -48,6 +48,14 @@
         "lng": 20.9971591
     },
     {
+        "wystawa": "Warsztaty Animatsuriichi - nocne granie w mahjonga",
+        "miejsce": "Stowarzyszenie Animatsuri",
+        "adres": "ul. Solec 52, Warszawa, Śródmieście",
+        "godziny": "18:00 - 03:00",
+        "lat": 52.2365613,
+        "lng": 21.0296257
+    },
+    {
         "wystawa": "Wernisaż/Wystawa/Zwiedzanie Apteka Zabytków na Nowym Świecie",
         "miejsce": "Mazowiecki Wojewódzki Konserwator Zabytków",
         "adres": "ul. Nowy Świat 18/20, Warszawa, Śródmieście",
@@ -88,12 +96,20 @@
         "lng": 20.9778402
     },
     {
+        "wystawa": "Warsztaty/Wernisaż/Wystawa BOTANIKA w Magazynie Sztuk",
+        "miejsce": "Ośrodek Kultury Ochoty, Magazyn Sztuk wejście od ul. Nieborowskiej m.21",
+        "adres": "ul. Radomska 13, Warszawa, Ochota",
+        "godziny": "18:00 - 21:00",
+        "lat": 52.2162141,
+        "lng": 20.977916
+    },
+    {
         "wystawa": "Pokaz/Spacer/Warsztaty/Wystawa/Zwiedzanie BUW królów",
         "miejsce": "Biblioteka Uniwersytecka w Warszawie",
         "adres": "ul. Dobra 56/66, Warszawa, Śródmieście",
         "godziny": "19:00 - 01:00",
-        "lat": 52.242753,
-        "lng": 21.0239436
+        "lat": 52.2425434,
+        "lng": 21.0260386
     },
     {
         "wystawa": "Wystawa Canvas Alive: Tam, gdzie tradycja spotyka technologię",
@@ -118,6 +134,14 @@
         "godziny": "18:00 - 00:00",
         "lat": 52.223936,
         "lng": 20.9943745
+    },
+    {
+        "wystawa": "Spektakl/Spotkanie Czechow musi zginąć - w Teatrze XL",
+        "miejsce": "Fundacja Teatru XL dla artystów i rozwoju lok. 10a",
+        "adres": "pl. Hallera 5, Warszawa, Praga-Północ",
+        "godziny": "20:00 - 23:00",
+        "lat": 52.2608752,
+        "lng": 21.0281221
     },
     {
         "wystawa": "Pokaz/Spotkanie/Wystawa/Zwiedzanie Czupurne Panny - absolwentki Platerek na przekór czasom",
@@ -192,6 +216,14 @@
         "lng": 21.0096751
     },
     {
+        "wystawa": "Wernisaż/Wystawa/Zwiedzanie Dziedzictwo Statystyki Polskiej. Najcenniejsze zbiory z kolekcji Centralnej Biblioteki Statystycznej",
+        "miejsce": "Centralna Biblioteka Statystyczna im. Stefana Szulca - na granicy terenu GUS i Pola Mokotowskiego od strony Pomnika Lotników,",
+        "adres": "al. Niepodległości 208, Warszawa, Śródmieście",
+        "godziny": "16:00 - 20:00",
+        "lat": 52.2162163,
+        "lng": 21.0065036
+    },
+    {
         "wystawa": "Koncert/Pokaz/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Elwiryon w Willi Frankówka",
         "miejsce": "Miejski Ośrodek Kultury / Dom Nauki i Sztuki / Willa Frankówka",
         "adres": "ul. Kardynała Wyszyńskiego 2, Józefów",
@@ -204,8 +236,8 @@
         "miejsce": "Projekt Gorgeous",
         "adres": "ul. Zwycięzców 11/6A, Warszawa, Praga-Południe",
         "godziny": "18:00 - 23:30",
-        "lat": 52.2332054,
-        "lng": 21.0649825
+        "lat": 52.2309501,
+        "lng": 21.053303
     },
     {
         "wystawa": "Wystawa Energia - w Muzeum Geologicznym",
@@ -240,6 +272,14 @@
         "lng": 21.0645861
     },
     {
+        "wystawa": "Film/Spacer/Wystawa/Zwiedzanie Fabryka Norblina bez tajemnic. Plater w roli głównej",
+        "miejsce": "Muzeum Fabryki Norblina lokal 53, budynek Plater, poziom 0",
+        "adres": "ul. Żelazna 51, Warszawa, Wola",
+        "godziny": "20:00 - 01:00",
+        "lat": 52.2317491,
+        "lng": 20.9901353
+    },
+    {
         "wystawa": "Koncert/Pokaz/Spacer/Wystawa/Zwiedzanie Festiwal Tramwajów - 160 lat tramwajów w Warszawie",
         "miejsce": "Tramwaje Warszawskie sp. z o.o.",
         "adres": "ul. Kawęczyńska 16, Warszawa, Praga-Północ",
@@ -272,6 +312,14 @@
         "lng": 21.151191
     },
     {
+        "wystawa": "Wystawa/Zwiedzanie Gabinet Melchiora Wańkowicza",
+        "miejsce": "Muzeum Literatury im. Adama Mickiewicza",
+        "adres": "ul. Trawiasta 29 , Warszawa, Wawer",
+        "godziny": "18:00 - 22:00",
+        "lat": 52.2241755,
+        "lng": 21.1558078
+    },
+    {
         "wystawa": "Pokaz/Warsztaty/Wykład/Wystawa/Zwiedzanie Gdy zapalają się latarnie - Noc Muzeów w Muzeum Gazowni Warszawskiej",
         "miejsce": "Muzeum Gazowni Warszawskiej",
         "adres": "ul. Krzyżanowskiego 7, Warszawa, Wola",
@@ -302,6 +350,14 @@
         "godziny": "16:00 - 20:30",
         "lat": 52.2264369,
         "lng": 20.9362659
+    },
+    {
+        "wystawa": "Warsztaty/Wykład/Zwiedzanie Hackerspace Warszawa - Noc z komputerami i maszynami",
+        "miejsce": "Stowarzyszenie Warszawski Hackerspace, parter",
+        "adres": "ul. Żelazna 103A, Warszawa, Wola",
+        "godziny": "21:00 - 05:00",
+        "lat": 52.2416054,
+        "lng": 20.9846337
     },
     {
         "wystawa": "Warsztaty Harmonia ekosystemu",
@@ -392,12 +448,52 @@
         "lng": 21.0005128
     },
     {
+        "wystawa": "Film/Wystawa/Zwiedzanie Jest takie kino…",
+        "miejsce": "Kino Specyfik,  lok. 31",
+        "adres": "ul. Pańska 75, Warszawa, Wola",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2310344,
+        "lng": 20.9923956
+    },
+    {
+        "wystawa": "Zwiedzanie Jubileusz w zabytkowym kanale",
+        "miejsce": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w m.st. Warszawie S.A.",
+        "adres": "ul. Ratuszowa 9C, Warszawa, Praga-Północ",
+        "godziny": "17:00 - 22:00",
+        "lat": 52.2576397,
+        "lng": 21.029118
+    },
+    {
         "wystawa": "Spotkanie/Wernisaż/Wystawa Kamień - Papier - Nożyce na Bielanach",
         "miejsce": "Jaga Hupało Born To Create",
         "adres": "ul. Dewajtis 3, Warszawa, Bielany",
         "godziny": "16:00 - 21:30",
         "lat": 52.295851,
         "lng": 20.9601061
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wernisaż/Wystawa/Zwiedzanie Kamień - Papier - Nożyce na Kłopotowskiego",
+        "miejsce": "Jaga Hupało Space of Creation lokal 7U, wejście od ulicy Jasińskiego",
+        "adres": "ul. Kłopotowskiego 11, Warszawa, Praga-Północ",
+        "godziny": "16:00 - 21:30",
+        "lat": 52.2500873,
+        "lng": 21.0298301
+    },
+    {
+        "wystawa": "Pokaz/Wernisaż/Wystawa Kamień - Papier - Nożyce w Muzeum Geologicznym",
+        "miejsce": "Jaga Hupało Born To Create  wejście od ul. Wiśniowej",
+        "adres": "ul. Rakowiecka 4, Warszawa, Mokotów",
+        "godziny": "16:00 - 21:30",
+        "lat": 52.2100299,
+        "lng": 21.0126094
+    },
+    {
+        "wystawa": "Pokaz/Wystawa Kamień - Papier - Nożyce w PAN Muzeum Ziemi",
+        "miejsce": "Jaga Hupało Born To Create lokal 26-27",
+        "adres": "al. Na Skarpie 20, Warszawa, Śródmieście",
+        "godziny": "16:00 - 21:30",
+        "lat": 52.2289984,
+        "lng": 21.0286209
     },
     {
         "wystawa": "Wystawa Kids Posters Night - w Galerii Autonomia",
@@ -460,8 +556,8 @@
         "miejsce": "Galeria 81 stopni",
         "adres": "ul. Kłopotowskiego 38/5, Warszawa, Praga-Północ",
         "godziny": "20:00 - 00:00",
-        "lat": 52.249788,
-        "lng": 21.0302584
+        "lat": 52.2493705,
+        "lng": 21.0292898
     },
     {
         "wystawa": "Performance/Spektakl Maraton Improwizacji w Resorcie Komedii",
@@ -494,6 +590,14 @@
         "godziny": "19:00 - 22:00",
         "lat": 52.2678353,
         "lng": 20.979796
+    },
+    {
+        "wystawa": "Koncert/Warsztaty/Wernisaż/Zwiedzanie Muzeum Maryjek",
+        "miejsce": "Muzeum Maryjek - Ksiuty w środku  lok. U2",
+        "adres": "ul. Środkowa 14, Warszawa, Praga-Północ",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2604882,
+        "lng": 21.0404928
     },
     {
         "wystawa": "Spacer/Spotkanie/Wystawa/Zwiedzanie Muzeum pełne zachwytów",
@@ -604,16 +708,16 @@
         "miejsce": "Mennica Polska",
         "adres": "ul. Agrykola 1, Warszawa, Śródmieście",
         "godziny": "19:00 - 00:00",
-        "lat": 52.215056,
-        "lng": 21.0358058
+        "lat": 52.2151758,
+        "lng": 21.0360727
     },
     {
         "wystawa": "Zwiedzanie Noc Muzeów Ministerstwa Finansów i Krajowej Administracji Skarbowej",
         "miejsce": "Ministerstwo Finansów",
         "adres": "ul. Świętokrzyska 12, Warszawa, Śródmieście",
         "godziny": "17:00 - 23:00",
-        "lat": 52.2377142,
-        "lng": 21.0163916
+        "lat": 52.2378027,
+        "lng": 21.0164699
     },
     {
         "wystawa": "Film/Performance/Pokaz/Wystawa Noc Muzeów na ASP w Warszawie",
@@ -644,16 +748,16 @@
         "miejsce": "Biblioteka Publiczna m. st. Warszawy- Biblioteka Główna Województwa Mazowieckiego",
         "adres": "ul. Koszykowa 26/28, Warszawa, Śródmieście",
         "godziny": "18:00 - 22:30",
-        "lat": 52.222895,
-        "lng": 21.0068304
+        "lat": 52.2225598,
+        "lng": 21.0131832
     },
     {
         "wystawa": "Spacer/Zwiedzanie Noc Muzeów na Legii",
         "miejsce": "Legia Warszawa",
         "adres": "ul. Łazienkowska 3, Warszawa, Śródmieście",
         "godziny": "19:00 - 01:00",
-        "lat": 52.2202487,
-        "lng": 21.0443965
+        "lat": 52.2204683,
+        "lng": 21.0407462
     },
     {
         "wystawa": "Koncert/Spacer/Wystawa/Zwiedzanie Noc Muzeów na Politechnice Warszawskiej",
@@ -692,7 +796,7 @@
         "miejsce": "Wydział Wzornictwa Akademii Sztuk Pięknych w Warszawie",
         "adres": "ul. Myśliwiecka 8, Warszawa, Śródmieście",
         "godziny": "17:00 - 22:00",
-        "lat": 52.2227956,
+        "lat": 52.2227957,
         "lng": 21.0328811
     },
     {
@@ -740,8 +844,8 @@
         "miejsce": "Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL (w organizacji)",
         "adres": "ul. Rakowiecka 37 , Warszawa, Mokotów",
         "godziny": "18:00 - 01:00",
-        "lat": 52.2076601,
-        "lng": 21.010965
+        "lat": 52.2073596,
+        "lng": 21.0100537
     },
     {
         "wystawa": "Koncert/Pokaz/Spacer/Spotkanie/Wykład/Wystawa/Zwiedzanie Noc Muzeów w DGW 2026",
@@ -768,7 +872,7 @@
         "lng": 20.8878827
     },
     {
-        "wystawa": "Zwiedzanie Noc Muzeów w domu pełnym historii – Środkowa 9",
+        "wystawa": "Zwiedzanie Noc Muzeów w domu pełnym historii - Środkowa 9",
         "miejsce": "Centrum Wspierania Rodzin Rodzinna Warszawa",
         "adres": "ul. Środkowa 9, Warszawa, Praga-Północ",
         "godziny": "18:00 - 23:30",
@@ -777,11 +881,27 @@
     },
     {
         "wystawa": "Koncert/Pokaz/Spotkanie/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Domu Pogrzebowym Służew",
-        "miejsce": "Dom Pogrzebowym Służew Szczuciński, Czartoryska-Szulc sp. j.",
+        "miejsce": "Dom Pogrzebowy Służew Szczuciński, Czartoryska-Szulc sp. j.",
         "adres": "ul. Fosa 19a, Warszawa, Ursynów",
         "godziny": "18:00 - 01:00",
         "lat": 52.1711182,
         "lng": 21.044075
+    },
+    {
+        "wystawa": "Film/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Noc Muzeów w Europa Experience - Spotkania z Europą",
+        "miejsce": "Biuro Parlamentu Europejskiego w Polsce ul Jasna 14/16a, parter",
+        "adres": "ul. Jasna 14, Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2353684,
+        "lng": 21.0113775
+    },
+    {
+        "wystawa": "Koncert/Zwiedzanie Noc Muzeów w Filharmonii Narodowej",
+        "miejsce": "Filharmonia Narodowa w Warszawie,  wejście od strony ul. Sienkiewicza",
+        "adres": "ul. Jasna 5, Warszawa, Śródmieście",
+        "godziny": "22:00 - 23:30",
+        "lat": 52.2344112,
+        "lng": 21.011251
     },
     {
         "wystawa": "Warsztaty/Wystawa Noc Muzeów w Fundacji Atelier",
@@ -790,6 +910,14 @@
         "godziny": "18:00 - 20:00",
         "lat": 52.2336655,
         "lng": 21.0221229
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Wystawa Noc Muzeów w Galerii Metamorfozy",
+        "miejsce": "Fundacja Metamorfozy lok. 20",
+        "adres": "ul. Marszałkowska 81, Warszawa, Śródmieście",
+        "godziny": "20:00 - 02:00",
+        "lat": 52.2252627,
+        "lng": 21.013878
     },
     {
         "wystawa": "Pokaz/Spotkanie/Wystawa/Zwiedzanie Noc Muzeów w Galerii Obok ZPAF",
@@ -804,8 +932,8 @@
         "miejsce": "Hala Koszyki",
         "adres": "ul. Koszykowa 63, Warszawa, Śródmieście",
         "godziny": "19:00 - 23:30",
-        "lat": 52.2221627,
-        "lng": 21.0112885
+        "lat": 52.2222237,
+        "lng": 21.0110167
     },
     {
         "wystawa": "Koncert/Pokaz/Wystawa/Zwiedzanie Noc Muzeów w Izbie Pamięci Strzelecka 8",
@@ -932,8 +1060,8 @@
         "miejsce": "Muzeum Andrzeja Struga",
         "adres": "al. Niepodległości 210 m. 10 , Warszawa, Śródmieście",
         "godziny": "17:00 - 21:00",
-        "lat": 52.2151156,
-        "lng": 21.005843
+        "lat": 52.2162721,
+        "lng": 21.0055894
     },
     {
         "wystawa": "Spacer/Wystawa/Zwiedzanie Noc Muzeów w Muzeum Dulag 121",
@@ -960,6 +1088,14 @@
         "lng": 21.0073094
     },
     {
+        "wystawa": "Wystawa/Zwiedzanie Noc Muzeów w Muzeum Historii Pielęgniarstwa i Położnictwa",
+        "miejsce": "Główna Komisja Historyczna przy ZG Polskiego Towarzystwa Pielęgniarskiego pod patronatem WOIPiP piętro VII,",
+        "adres": "ul. Żelazna 59, Warszawa, Wola",
+        "godziny": "17:00 - 23:00",
+        "lat": 52.2336095,
+        "lng": 20.9910553
+    },
+    {
         "wystawa": "Film/Pokaz/Spacer/Spotkanie/Warsztaty/Wernisaż/Wystawa/Zwiedzanie Noc Muzeów w Muzeum Historii Polski",
         "miejsce": "Muzeum Historii Polski",
         "adres": "ul. Gwardii 1, Warszawa, Żoliborz",
@@ -972,16 +1108,16 @@
         "miejsce": "Muzeum Historii Polskiego Ruchu Ludowego",
         "adres": "al. Wilanowska 2024 , Warszawa, Mokotów",
         "godziny": "16:00 - 01:00",
-        "lat": 52.1721096,
-        "lng": 21.0573162
+        "lat": 52.177188,
+        "lng": 21.0335073
     },
     {
         "wystawa": "Film/Pokaz/Spacer/Spotkanie/Warsztaty/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Muzeum Jana Pawła II i Prymasa Wyszyńskiego",
         "miejsce": "Mt 5,14 | Muzeum Jana Pawła II i Prymasa Wyszyńskiego",
         "adres": "ul. Prymasa Augusta Hlonda 1, Warszawa, Wilanów",
         "godziny": "16:00 - 00:00",
-        "lat": 52.1585582,
-        "lng": 21.0718394
+        "lat": 52.1586125,
+        "lng": 21.0721133
     },
     {
         "wystawa": "Spotkanie/Wystawa/Zwiedzanie Noc Muzeów w Muzeum Katyńskim",
@@ -1040,6 +1176,14 @@
         "lng": 20.9969981
     },
     {
+        "wystawa": "Film/Pokaz/Spacer/Spotkanie/Warsztaty/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Muzeum Wojska Polskiego",
+        "miejsce": "Muzeum Wojska Polskiego, Cytadela Warszawska",
+        "adres": "ul. Gwardii 4, Warszawa, Żoliborz",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2639233,
+        "lng": 20.9996186
+    },
+    {
         "wystawa": "Wystawa/Zwiedzanie Noc Muzeów w Muzeum Zimnej Wojny",
         "miejsce": "Muzeum Zimnej Wojny",
         "adres": "ul. Jezuicka 1/3, Warszawa, Śródmieście",
@@ -1070,6 +1214,14 @@
         "godziny": "19:00 - 01:00",
         "lat": 52.2352664,
         "lng": 20.9958844
+    },
+    {
+        "wystawa": "Wykład/Wystawa/Zwiedzanie Noc Muzeów w PAN Muzeum Ziemi w Warszawie",
+        "miejsce": "PAN Muzeum Ziemi w Warszawie 20/26, 27",
+        "adres": "Aleja Na Skarpie 20, Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2289984,
+        "lng": 21.0286209
     },
     {
         "wystawa": "Pokaz/Warsztaty/Wystawa/Zwiedzanie Noc Muzeów w Państwowym Muzeum Archeologicznym w Warszawie",
@@ -1139,8 +1291,1344 @@
         "wystawa": "Spotkanie/Zwiedzanie Noc Muzeów w Radiu Warszawa",
         "miejsce": "Radio Warszawa",
         "adres": "ul. Floriańska 3, Warszawa, Praga-Północ",
-        "godziny": "18:00 - 01:00",
+        "godziny": "17:00 - 21:00",
         "lat": 52.2517635,
         "lng": 21.0308379
+    },
+    {
+        "wystawa": "Film/Pokaz/Spacer/Spotkanie/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Sądzie Okręgowym w Warszawie",
+        "miejsce": "Sąd Okręgowy w Warszawie",
+        "adres": "al. Solidarności 127, Warszawa, Wola",
+        "godziny": "17:00 - 22:00",
+        "lat": 52.2405981,
+        "lng": 20.9924636
+    },
+    {
+        "wystawa": "Koncert/Wystawa/Zwiedzanie Noc Muzeów w Sali Tradycji Ordynariatu Polowego",
+        "miejsce": "Sala Tradycji Ordynariatu Polowego im. abp. gen. dyw. Józefa Feliksa Gawliny",
+        "adres": "ul. Długa 13/15, Warszawa, Śródmieście",
+        "godziny": "18:00 - 22:30",
+        "lat": 52.248861,
+        "lng": 21.0069825
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Noc Muzeów w schronie",
+        "miejsce": "ArcelorMittal Warszawa Sp. z o.o.",
+        "adres": "ul. Kasprowicza 132 , Warszawa, Bielany",
+        "godziny": "16:00 - 20:00",
+        "lat": 52.292672,
+        "lng": 20.9278612
+    },
+    {
+        "wystawa": "Zwiedzanie Noc Muzeów w Sejmie",
+        "miejsce": "Sejm RP",
+        "adres": "ul. Wiejska 4/6/8, Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2254315,
+        "lng": 21.0284326
+    },
+    {
+        "wystawa": "Film/Wystawa/Zwiedzanie Noc Muzeów w Senacie RP z Patronem Roku 2026 – Andrzejem Wajdą",
+        "miejsce": "Senat Rzeczypospolitej Polskiej",
+        "adres": "ul. Wiejska 6/8, Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2254315,
+        "lng": 21.0284326
+    },
+    {
+        "wystawa": "Spotkanie/Zwiedzanie Noc Muzeów w SGH",
+        "miejsce": "Szkoła Główna Handlowa w Warszawie",
+        "adres": "ul. Batorego 8, Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:30",
+        "lat": 52.212238,
+        "lng": 21.0103874
+    },
+    {
+        "wystawa": "Pokaz/Warsztaty/Wystawa Noc Muzeów w siedzibie Ministerstwa Nauki i Szkolnictwa Wyższego",
+        "miejsce": "Ministerstwo Nauki i Szkolnictwa Wyższego",
+        "adres": "ul. Wspólna 1/3, Warszawa, Śródmieście",
+        "godziny": "17:00 - 23:00",
+        "lat": 52.2278695,
+        "lng": 21.0197898
+    },
+    {
+        "wystawa": "Film/Koncert/Performance/Spacer/Spotkanie/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Stacji Muzeum",
+        "miejsce": "Stacja Muzeum",
+        "adres": "ul. Towarowa 3, Warszawa, Wola",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2262264,
+        "lng": 20.9871899
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wystawa/Zwiedzanie Noc Muzeów w Starej Galerii ZPAF",
+        "miejsce": "Związek Polskich Artystów Fotografików - Okręg Warszawski",
+        "adres": "pl. Zamkowy 8, Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2487217,
+        "lng": 21.0145743
+    },
+    {
+        "wystawa": "Pokaz/Wykład/Wystawa/Zwiedzanie Noc Muzeów w Straży Miejskiej m.st. Warszawy",
+        "miejsce": "Straż Miejska m.st. Warszawy",
+        "adres": "ul. Młynarska 43/45, Warszawa, Wola",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.241983,
+        "lng": 20.9694567
+    },
+    {
+        "wystawa": "Zwiedzanie Noc Muzeów w Teatrze Lalka - zwiedzanie kulis teatru",
+        "miejsce": "Teatr Lalka",
+        "adres": "pl. Defilad 1, Warszawa, Śródmieście",
+        "godziny": "18:30 - 22:30",
+        "lat": 52.2317657,
+        "lng": 21.0057979
+    },
+    {
+        "wystawa": "Spacer/Wystawa/Zwiedzanie Noc Muzeów w Teatrze Polskim",
+        "miejsce": "Teatr Polski im. Arnolda Szyfmana w Warszawie",
+        "adres": "ul. Karasia 2, Warszawa, Śródmieście",
+        "godziny": "21:00 - 01:00",
+        "lat": 52.2385695,
+        "lng": 21.0199348
+    },
+    {
+        "wystawa": "Koncert/Spektakl/Warsztaty/Zwiedzanie Noc Muzeów w Warszawskiej Operze Kameralnej",
+        "miejsce": "Warszawska Opera Kameralna",
+        "adres": "al. Solidarności 76 B, Warszawa, Wola",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2375688,
+        "lng": 20.9812257
+    },
+    {
+        "wystawa": "Wystawa Noc Muzeów w Zachęcie – Narodowej Galerii Sztuki",
+        "miejsce": "Zachęta - Narodowa Galeria Sztuki",
+        "adres": "pl. Małachowskiego 3, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2392415,
+        "lng": 21.0114907
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Noc Muzeów w Żydowskim Instytucie Historycznym",
+        "miejsce": "Żydowski Instytut Historyczny",
+        "adres": "ul. Tłomackie 3/5, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2443467,
+        "lng": 21.0028472
+    },
+    {
+        "wystawa": "Film/Pokaz/Spotkanie/Wykład/Zwiedzanie Noc Muzeów z Instytutem Polonika",
+        "miejsce": "Narodowy Instytut Polskiego Dziedzictwa Kulturowego za Granicą POLONIKA",
+        "adres": "ul. Madalińskiego 101 , Warszawa, Mokotów",
+        "godziny": "18:00 - 22:30",
+        "lat": 52.2016653,
+        "lng": 21.0019067
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Zwiedzanie Noc Muzeów z Krajową Administracją Skarbową",
+        "miejsce": "Izba Administracji Skarbowej w Warszawie / Trzeci Urząd Skarbowy Warszawa - Śródmieście",
+        "adres": "ul. Lindleya 14, Warszawa, Śródmieście",
+        "godziny": "18:00 - 22:00",
+        "lat": 52.2256478,
+        "lng": 20.9971631
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa Noc Muzeów z Powstańcami Warszawskimi",
+        "miejsce": "Związek Powstańców Warszawskich i Dom Spotkań z Historią",
+        "adres": "ul. Długa 22 , Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2492843,
+        "lng": 21.006465
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wystawa/Zwiedzanie Noc Muzeów z Witoldem Pileckim",
+        "miejsce": "Instytut Pileckiego, Galeria w Domu Bez Kantów",
+        "adres": "ul. Krakowskie Przedmieście 11, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2411416,
+        "lng": 21.0156889
+    },
+    {
+        "wystawa": "Koncert/Spacer/Wystawa/Zwiedzanie Noc Muzeum w Zamku Królewskim w Warszawie",
+        "miejsce": "Zamek Królewski w Warszawie - Muzeum. Rezydencja Królów i Rzeczypospolitej",
+        "adres": "pl. Zamkowy 4, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2479003,
+        "lng": 21.0152802
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Zwiedzanie Noc na Woronicza. Zwiedzanie zajezdni Miejskich Zakładów Autobusowych",
+        "miejsce": "Miejskie Zakłady Autobusowe Sp. z o.o.",
+        "adres": "ul. Woronicza 29, Warszawa, Mokotów",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.188429,
+        "lng": 20.997214
+    },
+    {
+        "wystawa": "Koncert/Spotkanie/Wykład/Wystawa Noc u reformowanych",
+        "miejsce": "Parafia Ewangelicko-Reformowana w Warszawie",
+        "adres": "al. Solidarności 74, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2440218,
+        "lng": 20.9983076
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Noc w aptece sprzed stu lat",
+        "miejsce": "Muzeum Farmacji im. mgr. Antoniny Leśniewskiej, oddział Muzeum Warszawy",
+        "adres": "ul. Piwna 31/33, Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2490905,
+        "lng": 21.0114523
+    },
+    {
+        "wystawa": "Happening/Pokaz/Spacer/Spotkanie/Wystawa/Zwiedzanie Noc w Centrum Symulatorów Lotu Simair Virtual",
+        "miejsce": "Simair - Flight Simulation Center",
+        "adres": "ul. Taśmowa 8, Warszawa, Mokotów",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.1794506,
+        "lng": 20.9904015
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Noc w Muzeum księdza Jerzego Popiełuszki",
+        "miejsce": "Muzeum Księdza Jerzego Popiełuszki w Warszawie",
+        "adres": "ul. Hozjusza 2, Warszawa, Żoliborz",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2675869,
+        "lng": 20.9839427
+    },
+    {
+        "wystawa": "Pokaz/Wystawa/Zwiedzanie Noc, a z nami wszystko staje się jasne!",
+        "miejsce": "Główny Urząd Miar",
+        "adres": "ul. Elektoralna 2, Warszawa, Śródmieście",
+        "godziny": "17:00 - 23:30",
+        "lat": 52.2417547,
+        "lng": 21.0015211
+    },
+    {
+        "wystawa": "Spacer Nocne pływanie na Woli",
+        "miejsce": "Pływalnia Foka OSiR Wola",
+        "adres": "ul. Esperanto 5, Warszawa, Wola",
+        "godziny": "22:00 - 01:00",
+        "lat": 52.2441859,
+        "lng": 20.9803419
+    },
+    {
+        "wystawa": "Spacer Nocne pływanie na Woli",
+        "miejsce": "Pływalnia Nowa Fala OSiR Wola",
+        "adres": "ul. Garbińskiego 1, Warszawa, Wola",
+        "godziny": "22:00 - 01:00",
+        "lat": 52.2348962,
+        "lng": 20.943766
+    },
+    {
+        "wystawa": "Spacer Nocne pływanie na Woli",
+        "miejsce": "Pływalnia Delfin OSiR Wola",
+        "adres": "ul. Kasprzaka 1/3, Warszawa, Wola",
+        "godziny": "22:00 - 01:00",
+        "lat": 52.22815,
+        "lng": 20.9771666
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Zwiedzanie Nocne Sensorysie",
+        "miejsce": "Tengent Ventures Sp. z o.o. Sensorysie Warszawa",
+        "adres": "ul. Różana 8, Warszawa, Mokotów",
+        "godziny": "20:30 - 22:00",
+        "lat": 52.2034267,
+        "lng": 21.0211868
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Nocne zwiedzanie Muzeum Domków Lalek, Gier i Zabawek z latarkami",
+        "miejsce": "Muzeum Domków Lalek, Gier i Zabawek",
+        "adres": "ul. Podwale 15 , Warszawa, Śródmieście",
+        "godziny": "19:00 - 21:30",
+        "lat": 52.2481059,
+        "lng": 21.009879
+    },
+    {
+        "wystawa": "Wystawa Nocne zwiedzanie Muzeum Geologicznego im. S.J. Thugutta",
+        "miejsce": "Wydział Geologii Uniwersytetu Warszawskiego",
+        "adres": "ul. Żwirki i Wigury 93, Warszawa, Ochota",
+        "godziny": "19:00 - 23:00",
+        "lat": 52.2111186,
+        "lng": 20.9871372
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Nocny spacer po Torze Służewiec",
+        "miejsce": "Totalizator Sportowy, Oddział Tor Wyścigów Konnych Służewiec",
+        "adres": "ul. Puławska 266, Warszawa, Ursynów",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.1595473,
+        "lng": 21.0087788
+    },
+    {
+        "wystawa": "Warsztaty Nocny warsztat emisji głosu",
+        "miejsce": "Akademia Sztuki i Kultury",
+        "adres": "al. Jana Pawła II 36c, Warszawa, Śródmieście",
+        "godziny": "21:30 - 22:30",
+        "lat": 52.24117,
+        "lng": 20.995425
+    },
+    {
+        "wystawa": "Warsztaty/Wernisaż/Wystawa/Zwiedzanie Nowe Dynasy. Były, są, będą? - wystawa fotografii, cyklografik i sitodruku",
+        "miejsce": "Dom Sztuki",
+        "adres": "ul. Sztuki 17, Warszawa, Praga-Południe",
+        "godziny": "18:00 - 22:00",
+        "lat": 52.2459433,
+        "lng": 21.1035117
+    },
+    {
+        "wystawa": "Wykład O malarzu Józefie Czapskim - wykład otwarty dr. Piotra Pańkowskiego w SCEK",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Jezuicka 4 , Warszawa, Śródmieście",
+        "godziny": "17:00 - 19:30",
+        "lat": 52.2496936,
+        "lng": 21.0139633
+    },
+    {
+        "wystawa": "Wykład/Zwiedzanie O sztuce sakralnej w sercu Warszawy - zwiedzanie Bazyliki Świętego Krzyża",
+        "miejsce": "Pietre Vive Warszawa",
+        "adres": "ul. Krakowskie Przedmieście 3, Warszawa, Śródmieście",
+        "godziny": "19:00 - 22:00",
+        "lat": 52.2387357,
+        "lng": 21.0167603
+    },
+    {
+        "wystawa": "Wystawa Obecność - wystawa rzeźb Łukasza Krupskiego",
+        "miejsce": "Konstanciński Dom Kultury Hugonówka",
+        "adres": "ul. Mostowa 15, Konstancin-Jeziorna",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.08601,
+        "lng": 21.10955
+    },
+    {
+        "wystawa": "Spotkanie/Wernisaż/Wystawa/Zwiedzanie Obserwacja Obrazów i Zjawiska Waloru o Zmierzchu",
+        "miejsce": "Galeria Apteka Sztuki - Zakład Aktywności Zawodowej",
+        "adres": "al. Wyzwolenia 3/5, Warszawa, Śródmieście",
+        "godziny": "17:00 - 01:00",
+        "lat": 52.2194758,
+        "lng": 21.0225773
+    },
+    {
+        "wystawa": "Wystawa Ochota na obraz. Zobacz, usłysz i poczuj rytm dzielnicy",
+        "miejsce": "Ośrodek Kultury Ochoty",
+        "adres": "ul. Radomska 13/21, Warszawa, Ochota",
+        "godziny": "19:30 - 23:00",
+        "lat": 52.2162141,
+        "lng": 20.977916
+    },
+    {
+        "wystawa": "Pokaz/Wykład/Wystawa/Zwiedzanie Odkryj piękno historycznych haftów w Muzeum Archidiecezji Warszawskiej",
+        "miejsce": "Muzeum Archidiecezji Warszawskiej",
+        "adres": "ul. Dziekania 1, Warszawa, Śródmieście",
+        "godziny": "19:30 - 23:30",
+        "lat": 52.2487185,
+        "lng": 21.0139793
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Odkryj zakamarki domu aukcyjnego DESA Unicum",
+        "miejsce": "DESA Unicum",
+        "adres": "ul. Piękna 1a, Warszawa, Śródmieście",
+        "godziny": "18:00 - 20:30",
+        "lat": 52.2236392,
+        "lng": 21.0262505
+    },
+    {
+        "wystawa": "Spotkanie/Wykład/Zwiedzanie Opowieści z Azji i Afryki. Cykl prelekcji Wydziału Kultur Azji i Afryki UW",
+        "miejsce": "Wydział Kultur Azji i Afryki Uniwersytetu Warszawskiego",
+        "adres": "ul. Krakowskie Przedmieście 26/28, Warszawa, Śródmieście",
+        "godziny": "18:30 - 23:30",
+        "lat": 52.2406625,
+        "lng": 21.0202847
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Zwiedzanie Opowieści z Azji i Afryki. Gra terenowa Wydziału Kultur Azji i Afryki UW",
+        "miejsce": "Uniwersytet Warszawski, Wydział Kultur Azji i Afryki",
+        "adres": "ul. Krakowskie Przedmieście 26/28, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2406625,
+        "lng": 21.0202847
+    },
+    {
+        "wystawa": "Spektakl/Spotkanie Opowieści z Krochmalnej - czytanie performatywne tekstów pisanych przez wychowanków Janusza Korczaka",
+        "miejsce": "Korczakianum, oddział Muzeum Warszawy",
+        "adres": "ul. Jaktorowska 6, Warszawa, Wola",
+        "godziny": "17:30 - 19:00",
+        "lat": 52.234687,
+        "lng": 20.9779994
+    },
+    {
+        "wystawa": "Performance/Spacer/Warsztaty/Zwiedzanie Oprowadzania Rowieśnicze po wystawach w CSW",
+        "miejsce": "Centrum Sztuki Wspołczesnej Zamek Ujazdowski",
+        "adres": "ul. Jazdów 2, Warszawa, Śródmieście",
+        "godziny": "17:00 - 19:00",
+        "lat": 52.2215764,
+        "lng": 21.0292638
+    },
+    {
+        "wystawa": "Spacer/Wykład/Zwiedzanie Oprowadzania wieczorne w Centrum Interpretacji Zabytku",
+        "miejsce": "Centrum Interpretacji Zabytku, oddział Muzeum Warszawy",
+        "adres": "ul. Brzozowa 11/13, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2501534,
+        "lng": 21.0131367
+    },
+    {
+        "wystawa": "Spotkanie/Zwiedzanie Oprowadzanie kuratorskie po wystawie w CSW",
+        "miejsce": "Centrum Sztuki Współczesnej Zamek Ujazdowski",
+        "adres": "Jazdów 2, Warszawa, Śródmieście",
+        "godziny": "19:30 - 21:00",
+        "lat": 52.2215764,
+        "lng": 21.0292638
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa/Zwiedzanie Otwarta Pracownia Południowa",
+        "miejsce": "Pracownia Południowa",
+        "adres": "ul. Grochowska 319, Warszawa, Praga-Południe",
+        "godziny": "17:00 - 23:00",
+        "lat": 52.2463067,
+        "lng": 21.0634631
+    },
+    {
+        "wystawa": "Pokaz/Warsztaty Otwarte warsztaty DJ w Noc Muzeów",
+        "miejsce": "WSDJ Studio",
+        "adres": "ul. Hoża 9 , Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2272142,
+        "lng": 21.0201841
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Ożarów Mazowiecki nocą – spacer śladami historii miasta",
+        "miejsce": "Stowarzyszenie Ożarowski Portal Historyczny",
+        "adres": "ul. Kolejowa, Ożarów Mazowiecki",
+        "godziny": "20:00 - 22:00",
+        "lat": 52.208071,
+        "lng": 20.7941321
+    },
+    {
+        "wystawa": "Warsztaty Pachnąca Noc w pracowni Taka Szpilka",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia - Taka Szpilka!",
+        "adres": "ul. Dembowskiego 1, Warszawa, Ursynów",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.1532678,
+        "lng": 21.0339747
+    },
+    {
+        "wystawa": "Wystawa Pągowski nie tylko plakaty",
+        "miejsce": "Stratos Art Project",
+        "adres": "ul. Skorupki 5 , Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.226006,
+        "lng": 21.0160722
+    },
+    {
+        "wystawa": "Pokaz/Wykład/Zwiedzanie Palmiry - otwarta księga",
+        "miejsce": "Muzeum - Miejsce Pamięci Palmiry, oddział Muzeum Warszawy",
+        "adres": "Droga Palmirska 1, Czosnów",
+        "godziny": "16:00 - 18:30",
+        "lat": 52.3320354,
+        "lng": 20.7453689
+    },
+    {
+        "wystawa": "Koncert/Pokaz/Spacer/Warsztaty/Wystawa/Zwiedzanie Pasja, nauka, tożsamość. Staszic i UW",
+        "miejsce": "Muzeum Uniwersytetu Warszawskiego",
+        "adres": "ul. Krakowskie Przedmieście 26/28, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2406625,
+        "lng": 21.0202847
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Zwiedzanie Patent by Night - Noc Muzeów w Urzędzie Patentowym RP",
+        "miejsce": "Urząd Patentowy Rzeczypospolitej Polskiej",
+        "adres": "al. Niepodległości 188/192, Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2125303,
+        "lng": 21.0073876
+    },
+    {
+        "wystawa": "Performance Performance na Jezuickiej",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Jezuicka 4 , Warszawa, Śródmieście",
+        "godziny": "16:00 - 18:00",
+        "lat": 52.2496936,
+        "lng": 21.0139633
+    },
+    {
+        "wystawa": "Koncert/Pokaz/Spacer/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Piaseczyńska Noc Muzeów w klimacie PRL",
+        "miejsce": "Muzeum Piaseczna",
+        "adres": "pl. Piłsudskiego 10, Piaseczno",
+        "godziny": "16:00 - 23:30",
+        "lat": 52.0748622,
+        "lng": 21.0267458
+    },
+    {
+        "wystawa": "Happening/Koncert/Pokaz/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Piknik Historia Zabawką Pisana",
+        "miejsce": "Powiatowe Centrum Kultury Fabryczka",
+        "adres": "ul. Orwida 20, Wołomin",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.3421052,
+        "lng": 21.2320281
+    },
+    {
+        "wystawa": "Film/Spotkanie Pod Grunwaldem. Krzyżacy w Alternatywach",
+        "miejsce": "Ursynowskie Centrum Kultury Alternatywy",
+        "adres": "ul. Gandhi 9, Warszawa, Ursynów",
+        "godziny": "17:00 - 22:00",
+        "lat": 52.1484183,
+        "lng": 21.0445155
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wykład Pogrzeby Przyszłości. Wejdź, jeśli się odważysz",
+        "miejsce": "Polskie Stowarzyszenie Celebrantów Humanistycznych",
+        "adres": "ul. Powązkowska 2, Warszawa, Wola",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.253496,
+        "lng": 20.980648
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wystawa Pokaz nocnego nieba przez teleskopy astronomiczne",
+        "miejsce": "Polskie Towarzystwo Miłośników Astronomii",
+        "adres": "pl. Defilad 1, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2317657,
+        "lng": 21.0057979
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Pontiseum - plenerowa ekspozycja oryginalnych pozostałości historycznych, warszawskich mostów",
+        "miejsce": "Praska Ferajna (przewodnicy po Warszawie) i Instytut Badawczy Dróg i Mostów [wspólnie]",
+        "adres": "ul. Instytutowa 1, Warszawa, Praga-Północ",
+        "godziny": "16:00 - 20:00",
+        "lat": 52.2672951,
+        "lng": 21.0250666
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie PoRa na Noc w Muzeum Marii Skłodowskiej-Curie w Warszawie",
+        "miejsce": "Muzeum Marii Skłodowskiej-Curie w Warszawie",
+        "adres": "ul. Freta 16, Warszawa, Śródmieście",
+        "godziny": "17:00 - 01:00",
+        "lat": 52.2515313,
+        "lng": 21.0085201
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa/Zwiedzanie Portret niedokończony - wystawa rzeźb Zofii Kubickiej",
+        "miejsce": "Galeria sztuki Po Prawej Stronie Wisły",
+        "adres": "ul. Konopacka 15/ 1a, Warszawa, Praga-Północ",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2599251,
+        "lng": 21.0383287
+    },
+    {
+        "wystawa": "Film/Spotkanie Powstańcze Kino w PAŚCIE",
+        "miejsce": "Światowy Związek Żołnierzy Armii Krajowej Okręg Warszawa",
+        "adres": "ul. Zielna 39, Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2363035,
+        "lng": 21.0063122
+    },
+    {
+        "wystawa": "Wystawa Południk 21. Czapski – Kozera",
+        "miejsce": "Narodowe Centrum Kultury",
+        "adres": "ul. Krakowskie Przedmieście 15, Warszawa, Śródmieście",
+        "godziny": "16:00 - 23:00",
+        "lat": 52.242506,
+        "lng": 21.0138389
+    },
+    {
+        "wystawa": "Pokaz/Wystawa Przedwojenna Warszawa w miniaturze w Teatrze Kamienica",
+        "miejsce": "Makieta Warszawy z 1939 | Teatr Kamienica",
+        "adres": "al. Solidarności 93, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2432284,
+        "lng": 20.9985792
+    },
+    {
+        "wystawa": "Film/Koncert/Pokaz/Spotkanie/Wernisaż/Wystawa/Zwiedzanie PrzeLoteria w Prześwicie",
+        "miejsce": "Prześwit Kolektywna Instytucja Kultury",
+        "adres": "ul. Freta 39, Warszawa, Śródmieście",
+        "godziny": "18:30 - 00:00",
+        "lat": 52.2528091,
+        "lng": 21.0072365
+    },
+    {
+        "wystawa": "Film/Pokaz/Spacer/Spotkanie/Warsztaty/Zwiedzanie Przewijamy Wstecz. Najntisy w Polsce",
+        "miejsce": "Filmoteka Narodowa - Instytut Audiowizualny",
+        "adres": "ul. Wałbrzyska 3/5, Warszawa, Mokotów",
+        "godziny": "17:00 - 21:00",
+        "lat": 52.1731364,
+        "lng": 21.0320274
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Przychodzi baba do lekarza... czyli o medycynie na wesoło!",
+        "miejsce": "Główna Biblioteka Lekarska im. Stanisława Konopki w Warszawie",
+        "adres": "ul. Jazdów 1A, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2193482,
+        "lng": 21.0282068
+    },
+    {
+        "wystawa": "Spotkanie Przystanek Centrum - pawilon informacyjno-promocyjny m.st. Warszawy",
+        "miejsce": "Urząd Miasta Stołecznego Warszawy",
+        "adres": "pl. Defilad 1, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:30",
+        "lat": 52.2317657,
+        "lng": 21.0057979
+    },
+    {
+        "wystawa": "Warsztaty Pszczela Noc w ArtLabie",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia - ArtLab",
+        "adres": "ul. Markowska 16, Warszawa, Praga-Północ",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.254164,
+        "lng": 21.0442547
+    },
+    {
+        "wystawa": "Warsztaty Pyry, bulwy i grule + domowa lemoniada z pigwy",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia-Cooklab",
+        "adres": "ul. Targowa 66/33, Warszawa, Praga-Północ",
+        "godziny": "16:00 - 21:00",
+        "lat": 52.2495446,
+        "lng": 21.0429532
+    },
+    {
+        "wystawa": "Pokaz Rapująca Historia Białołęki",
+        "miejsce": "Fundacja AVE",
+        "adres": "ul. Modlińska 197, Warszawa, Białołęka",
+        "godziny": "21:00 - 22:00",
+        "lat": 52.3210419,
+        "lng": 20.9707657
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Retro Noc Muzeów w WMKiG",
+        "miejsce": "Warszawskie Muzeum Komputerów i Gier",
+        "adres": "al. Niepodległości 208b, Warszawa, Śródmieście",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.2173705,
+        "lng": 21.005351
+    },
+    {
+        "wystawa": "Warsztaty Robot Photon i przemiany energii",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia",
+        "adres": "ul. Markowska 16, Warszawa, Praga-Północ",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.254164,
+        "lng": 21.0442547
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Rój. Wystawa malarstwa rodzeństwa Żądło",
+        "miejsce": "Cliché Gallery",
+        "adres": "ul. Freta 39, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2528091,
+        "lng": 21.0072365
+    },
+    {
+        "wystawa": "Warsztaty/Wernisaż/Wystawa Rozmowa z Mistrzem",
+        "miejsce": "Muzeum Sztuki Dziecka Fundacji Dziecko i Sztuka",
+        "adres": "ul. Mickiewicza 65, Warszawa, Żoliborz",
+        "godziny": "17:00 - 21:00",
+        "lat": 52.2763552,
+        "lng": 20.979598
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa/Zwiedzanie Ruch należy do Ciebie – Noc Muzeów z SZACH-WAT",
+        "miejsce": "Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego",
+        "adres": "ul. Kaliskiego 19, Warszawa, Bemowo",
+        "godziny": "16:00 - 20:00",
+        "lat": 52.2529748,
+        "lng": 20.8955881
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa/Zwiedzanie Salon romantyczny Tekli Bądarzewskiej",
+        "miejsce": "Archiwum Państwowe w Warszawie",
+        "adres": "ul. Krzywe Koło 7, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2504583,
+        "lng": 21.0113768
+    },
+    {
+        "wystawa": "Film/Wystawa Saunatic - wystawa plenerowa i film",
+        "miejsce": "StudioJOT",
+        "adres": "ul. Targowa 56 (wejście od ul. Ząbkowskiej 8-10, przez parking), Warszawa, Praga-Północ",
+        "godziny": "20:00 - 22:00",
+        "lat": 52.2522227,
+        "lng": 21.0389931
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Sekrety Ministerstwa Rozowju i Technologii",
+        "miejsce": "Ministerstwo Rozwoju i Technologii",
+        "adres": "pl. Trzech Krzyży 3/5, Warszawa, Śródmieście",
+        "godziny": "17:00 - 23:00",
+        "lat": 52.2286979,
+        "lng": 21.0225486
+    },
+    {
+        "wystawa": "Koncert/Spacer/Warsztaty/Wystawa Sensorium. W stronę zmysłowej uważności – Noc Muzeów w Centrum Myśli Jana Pawła II",
+        "miejsce": "Centrum Myśli Jana Pawła II",
+        "adres": "ul. Foksal 11, Warszawa, Śródmieście",
+        "godziny": "17:00 - 23:30",
+        "lat": 52.2336655,
+        "lng": 21.0221229
+    },
+    {
+        "wystawa": "Happening/Koncert/Performance Sing Along, czyli spontaniczny chór plenerowy",
+        "miejsce": "Instytut Stefana Starzyńskiego, Muzeum Powstania Warszawskiego",
+        "adres": "ul. Towarowa 25, 00-844 Warszawa, Warszawa, Wola",
+        "godziny": "18:30 - 20:30",
+        "lat": 52.2310325,
+        "lng": 20.9824111
+    },
+    {
+        "wystawa": "Wystawa Śladami dinozaurów. Od pustyni Gobi do Muzeum Historii Naturalnej",
+        "miejsce": "Muzeum Historii Naturalnej",
+        "adres": "ul. Nowy Świat 72 (wejście od ul. Świętokrzyskiej), Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2377936,
+        "lng": 21.0181978
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Wystawa SLEEPOVER 2 Picture Doc",
+        "miejsce": "Fundacja Picture Doc",
+        "adres": "ul. Warecka 4/6, Warszawa, Śródmieście",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.2360555,
+        "lng": 21.0170873
+    },
+    {
+        "wystawa": "Spacer/Wykład/Zwiedzanie Spacer Śladami Konesera",
+        "miejsce": "Muzeum Polskiej Wódki",
+        "adres": "pl. Konesera 1, Warszawa, Praga-Północ",
+        "godziny": "18:00 - 19:30",
+        "lat": 52.2553935,
+        "lng": 21.0459882
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Spacer wokół Placu Konstytucji",
+        "miejsce": "Stowarzyszenie Przewodników Turystycznych Złota Kaczka",
+        "adres": "start: pl. Konstytucji 2, Warszawa, Śródmieście",
+        "godziny": "18:00 - 19:30",
+        "lat": 52.2216277,
+        "lng": 21.0174745
+    },
+    {
+        "wystawa": "Spacer Spacer “Wyjdź poza ramy“",
+        "miejsce": "Ośrodek Kultury Ochoty",
+        "adres": "Al. Jerozolimskie 58, Warszawa, Ochota",
+        "godziny": "19:30 - 21:00",
+        "lat": 52.2256159,
+        "lng": 20.9901015
+    },
+    {
+        "wystawa": "Warsztaty/Wykład Spojrzenie na północny Atlantyk – Kultura i dyplomacja Islandii",
+        "miejsce": "Ambasada Islandii w Warszawie",
+        "adres": "al. Armii Ludowej 26, Warszawa, Śródmieście",
+        "godziny": "17:00 - 21:00",
+        "lat": 52.2181635,
+        "lng": 21.0078528
+    },
+    {
+        "wystawa": "Pokaz/Wystawa/Zwiedzanie Spotkanie z historią i współczesnością w Technikum nr 7 d. Kolejówka",
+        "miejsce": "Technikum nr 7 w Zespole Szkół im. inż. Stanisława Wysockiego d. Kolejówka",
+        "adres": "ul. Szczęsliwicka 56, Warszawa, Ochota",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2132718,
+        "lng": 20.9679429
+    },
+    {
+        "wystawa": "Film/Happening/Spotkanie/Wystawa/Zwiedzanie Srebrna Noc w PME",
+        "miejsce": "Państwowe Muzeum Etnograficzne w Warszawie",
+        "adres": "ul. Kredytowa 1, Warszawa, Śródmieście",
+        "godziny": "17:00 - 01:00",
+        "lat": 52.2381491,
+        "lng": 21.0121665
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Stanisław Baj i Przyjaciele - w Muzeum Wycinanki",
+        "miejsce": "Muzeum Wycinanki w Konstancinie-Jeziornie, oddział Konstancińskiego Domu Kultury",
+        "adres": "ul. Anny Walentynowicz 18, Konstancin-Jeziorna",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.0961468,
+        "lng": 21.1348025
+    },
+    {
+        "wystawa": "Wykład Svoysko - wystawa zbiorowa w Galerii Kazamaty w Starej Prochowni SCEK",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Boleść 2 , Warszawa, Śródmieście",
+        "godziny": "16:00 - 21:00",
+        "lat": 52.2520609,
+        "lng": 21.0120162
+    },
+    {
+        "wystawa": "Film/Pokaz/Zwiedzanie Świat filmów Andrzeja Wajdy w WFDiF - kino plenerowe i pokazy PKF",
+        "miejsce": "Wytwrónia Filmów Dokumentalnych i Fabularnych",
+        "adres": "ul. Chełmska 21, Warszawa, Mokotów",
+        "godziny": "19:00 - 23:00",
+        "lat": 52.2019882,
+        "lng": 21.0422157
+    },
+    {
+        "wystawa": "Warsztaty/Wykład/Wystawa/Zwiedzanie Świat leków po zmroku - w Muzeum Historii Medycyny UW",
+        "miejsce": "Muzeum Historii Medycyny Warszawskiego Uniwersytetu Medycznego",
+        "adres": "ul. Żwirki i Wigury 63, Warszawa, Ochota",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2064932,
+        "lng": 20.9857119
+    },
+    {
+        "wystawa": "Wystawa Światła Miasta w Muzeum Neonów",
+        "miejsce": "Muzeum Neonów",
+        "adres": "pl. Defilad 1, Warszawa, Śródmieście",
+        "godziny": "20:00 - 00:00",
+        "lat": 52.2317657,
+        "lng": 21.0057979
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Wykład/Zwiedzanie Światło Półksiężyca - Noc Kultury Muzułmańskiej",
+        "miejsce": "Ośrodek Kultury Muzułmańskiej",
+        "adres": "al. Bohaterów Września 23, Warszawa, Ochota",
+        "godziny": "18:00 - 22:00",
+        "lat": 52.2151667,
+        "lng": 20.9598187
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Światło. Praktyki odporności - wystawa w Spectra Art Space",
+        "miejsce": "Fundacja Rodziny Staraków",
+        "adres": "Bobrowiecka 6 , Warszawa, Mokotów",
+        "godziny": "20:00 - 21:30",
+        "lat": 52.1979141,
+        "lng": 21.0480584
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Swobodne Piękno: odkryj historię rewitalizacji pałaców Branickich i Szaniawskich",
+        "miejsce": "Hotel Verte, Warsaw, Autograph Collection",
+        "adres": "ul. Podwale 3A, Warszawa, Śródmieście",
+        "godziny": "19:00 - 22:30",
+        "lat": 52.2468171,
+        "lng": 21.0114046
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Wykład/Wystawa Sztuka wychodzi z ram",
+        "miejsce": "PKO Bank Polski",
+        "adres": "ul. Marszałkowska 100/102 , Warszawa, Śródmieście",
+        "godziny": "16:00 - 01:00",
+        "lat": 52.2304584,
+        "lng": 21.0123582
+    },
+    {
+        "wystawa": "Film/Spektakl/Warsztaty/Wykład/Wystawa Sztuka wychodzi z ram",
+        "miejsce": "PKO Bank Polski",
+        "adres": "ul. Świętokrzyska 36, Warszawa, Śródmieście",
+        "godziny": "16:00 - 01:00",
+        "lat": 52.2337564,
+        "lng": 20.9997538
+    },
+    {
+        "wystawa": "Koncert/Pokaz/Warsztaty/Wystawa/Zwiedzanie Słowa i dźwięki - w Muzeum POLIN",
+        "miejsce": "Muzeum Historii Żydów Polskich POLIN",
+        "adres": "ul. Anielewicza 6, Warszawa, Śródmieście",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2493716,
+        "lng": 20.9931609
+    },
+    {
+        "wystawa": "Koncert Słowiańska Noc Muzeów - Koncert Kruczy Sen",
+        "miejsce": "Bielański Ośrodek Kultury",
+        "adres": "ul. Goldoniego 1, Warszawa, Bielany",
+        "godziny": "18:00 - 20:00",
+        "lat": 52.2847176,
+        "lng": 20.9356006
+    },
+    {
+        "wystawa": "Wystawa The Best of Muzeum Karykatury",
+        "miejsce": "Muzeum Karykatury",
+        "adres": "ul. Kozia 11, Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2449891,
+        "lng": 21.0131779
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa/Zwiedzanie The War Next Door - w Galerii STALOWA",
+        "miejsce": "Galeria STALOWA",
+        "adres": "ul. Stalowa 26, Warszawa, Praga-Północ",
+        "godziny": "18:00 - 21:00",
+        "lat": 52.2601719,
+        "lng": 21.0418251
+    },
+    {
+        "wystawa": "Spacer/Wystawa/Zwiedzanie Toast na Wierzbowej",
+        "miejsce": "Muzeum Wódki",
+        "adres": "ul. Wierzbowa 11, Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2434024,
+        "lng": 21.007613
+    },
+    {
+        "wystawa": "Warsztaty/Wystawa Topografia miękkiego gruntu – wystawa Gabrieli Piwar",
+        "miejsce": "Galeria Promocyjna",
+        "adres": "Rynek Starego Miasta 2, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2498051,
+        "lng": 21.0130624
+    },
+    {
+        "wystawa": "Spacer/Wystawa/Zwiedzanie Tour Głuchych w Noc Muzeów",
+        "miejsce": "Niezależny Kolektyw Sojuszniczy",
+        "adres": "start: Rynek Starego Miasta 2 , Warszawa, Śródmieście",
+        "godziny": "17:00 - 22:30",
+        "lat": 52.2498051,
+        "lng": 21.0130624
+    },
+    {
+        "wystawa": "Pokaz/Spacer/Spektakl/Warsztaty/Wystawa/Zwiedzanie Twierdza Zmartwychwstanek dla Rodzin",
+        "miejsce": "Szkoły Sióstr Zmartwychwstanek",
+        "adres": "ul. Krasińskiego 31, Warszawa, Żoliborz",
+        "godziny": "16:00 - 18:00",
+        "lat": 52.2659073,
+        "lng": 20.976265
+    },
+    {
+        "wystawa": "Wernisaż/Wystawa/Zwiedzanie Utracone przyszłości - wystawa w Ośrodku Sztuki Lescer",
+        "miejsce": "Ośrodek Sztuki Lescer",
+        "adres": "ul. Pionierów 11/13, Zalesie Górne",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.0270324,
+        "lng": 21.0363265
+    },
+    {
+        "wystawa": "Film/Koncert/Spacer/Spotkanie/Wystawa/Zwiedzanie VI Lipska Noc Muzeów",
+        "miejsce": "Stowarzyszenie Bezbłędna Gmina Błędów",
+        "adres": "Lipie 33 , Błędów",
+        "godziny": "16:00 - 23:00",
+        "lat": 51.8246782,
+        "lng": 20.7064246
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie W czerni kopię jak szpadlem w ziemi, w nadziei przejścia na drugą stronę",
+        "miejsce": "Galeria Test Mazowieckiego Instytutu Kultury",
+        "adres": "ul. Marszałkowska 34/50 , Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2211152,
+        "lng": 21.0176227
+    },
+    {
+        "wystawa": "Spotkanie/Wernisaż/Wystawa/Zwiedzanie W trakcie patrzenia wszystko się zmienia",
+        "miejsce": "Fundacja Obserwacja",
+        "adres": "ul. Tarczyńska 3/9, Warszawa, Ochota",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.223029,
+        "lng": 20.9887908
+    },
+    {
+        "wystawa": "Spacer/Wykład/Wystawa/Zwiedzanie Warszawa Struga, Dąbrowskiej i Broniewskiego. Literackie adresy – domy, które pisały historię",
+        "miejsce": "Muzeum Literatury im. Adama Mickiewicza",
+        "adres": "start: al. Niepodległości 210 m. 10, Warszawa, Śródmieście",
+        "godziny": "17:00 - 21:00",
+        "lat": 52.2162721,
+        "lng": 21.0055894
+    },
+    {
+        "wystawa": "Spacer Warszawskie City nocą, czyli jak łotrzykowska dzielnica zmieniła się w centrum biznesu",
+        "miejsce": "Muzeum Woli, oddział Muzeum Warszawy",
+        "adres": "ul. Srebrna 12, Warszawa, Wola",
+        "godziny": "18:00 - 19:30",
+        "lat": 52.2279593,
+        "lng": 20.9897002
+    },
+    {
+        "wystawa": "Spacer/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Warszawskie opowieści...weduty - wystawa Piotra Szczepańskiego",
+        "miejsce": "Galeria Forma, Ośrodek Kultury Forma SBM Politechnika",
+        "adres": "ul. Żuławskiego 4/6, Warszawa, Mokotów",
+        "godziny": "18:00 - 23:30",
+        "lat": 52.1908358,
+        "lng": 20.9912321
+    },
+    {
+        "wystawa": "Warsztaty Warsztaty filcowania w SCEK - spotkanie z rękodziełem",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Jezuicka 4 , Warszawa, Śródmieście",
+        "godziny": "17:00 - 19:00",
+        "lat": 52.2496936,
+        "lng": 21.0139633
+    },
+    {
+        "wystawa": "Film/Warsztaty Warsztaty Filmowe Studio Eko News",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia - FabLab Kamera Akcja!",
+        "adres": "ul. Dembowskiego 1, Warszawa, Ursynów",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.1532678,
+        "lng": 21.0339747
+    },
+    {
+        "wystawa": "Warsztaty Warsztaty stolarskie “Hotele dla owadów“",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia - FabLab W Tym Sęk!",
+        "adres": "ul. Dembowskiego 1, 02-784 Warszawa, Warszawa, Ursynów",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.1532678,
+        "lng": 21.0339747
+    },
+    {
+        "wystawa": "Warsztaty Warsztaty w pracowni elektronicznej",
+        "miejsce": "Warszawskie Laboratorium Innowacji Społecznych Synergia - FabLab Oto Dioda!",
+        "adres": "ul. Dembowskiego 1, Warszawa, Ursynów",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.1532678,
+        "lng": 21.0339747
+    },
+    {
+        "wystawa": "Film/Spotkanie/Warsztaty/Wykład/Wystawa Węgry okiem hungarystów",
+        "miejsce": "Instytut Liszta - Węgierski Instytut Kultury w Warszawie",
+        "adres": "ul. Moniuszki 10, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2348221,
+        "lng": 21.0100982
+    },
+    {
+        "wystawa": "Koncert/Wernisaż/Wystawa Wernisaż wystawy malarstwa Filipa Moszanta",
+        "miejsce": "Dom w Alejach - filia Domu Kultury Śródmieście",
+        "adres": "Aleje Jerozolimskie 2, Warszawa, Śródmieście",
+        "godziny": "19:00 - 22:00",
+        "lat": 52.2329369,
+        "lng": 21.0247128
+    },
+    {
+        "wystawa": "Spotkanie/Zwiedzanie Weź plakat z Galerii Arteneum",
+        "miejsce": "Galeria Arteneum - placówka Domu Kultury Świt w Warszawie",
+        "adres": "ul. Radzymińska 121, Warszawa, Targówek",
+        "godziny": "17:00 - 21:00",
+        "lat": 52.2701228,
+        "lng": 21.0608942
+    },
+    {
+        "wystawa": "Koncert/Zwiedzanie Wiek Radia",
+        "miejsce": "Polskie Radio",
+        "adres": "al. NIepodległości 77/85 , Warszawa, Mokotów",
+        "godziny": "19:00 - 00:00",
+        "lat": 52.1922277,
+        "lng": 21.0147574
+    },
+    {
+        "wystawa": "Spotkanie/Warsztaty/Zwiedzanie Wiek Radia - w Trójce",
+        "miejsce": "Trójka - Program Trzeci Polskiego Radia",
+        "adres": "ul. Myśliwiecka 3/5/7, Warszawa, Śródmieście",
+        "godziny": "19:00 - 23:00",
+        "lat": 52.2203605,
+        "lng": 21.0356866
+    },
+    {
+        "wystawa": "Koncert Wielkie Otwarcie Pokoju na Lato – koncert zespołu Wiraszko",
+        "miejsce": "Instytut Stefana Starzyńskiego, oddział Muzeum Powstania Warszawskiego",
+        "adres": "ul. Towarowa 25, Warszawa, Wola",
+        "godziny": "21:30 - 23:00",
+        "lat": 52.2310325,
+        "lng": 20.9824111
+    },
+    {
+        "wystawa": "Pokaz Wielkie Serca - Widowisko w Multimedialnym Parku Fontann",
+        "miejsce": "Stołeczna Estrada",
+        "adres": "Skwer 1 Dywizji Pancernej WP, Warszawa, Śródmieście",
+        "godziny": "21:30 - 22:00",
+        "lat": 52.2541109,
+        "lng": 21.0108202
+    },
+    {
+        "wystawa": "Warsztaty Wikingowie: Warsztaty dla dzieci",
+        "miejsce": "Ambasada Islandii w Warszawie",
+        "adres": "al. Armii Ludowej 26, Warszawa, Śródmieście",
+        "godziny": "18:00 - 19:00",
+        "lat": 52.2181635,
+        "lng": 21.0078528
+    },
+    {
+        "wystawa": "Spotkanie/Wykład/Zwiedzanie Witamy w Armii Zbawienia",
+        "miejsce": "Armia Zbawienia / The Salvation Army",
+        "adres": "ul. Ząbkowska 13/13 (wejście od ulicy Brzeskiej), Warszawa, Praga-Północ",
+        "godziny": "16:00 - 18:00",
+        "lat": 52.2538716,
+        "lng": 21.0400633
+    },
+    {
+        "wystawa": "Happening/Spacer/Warsztaty Wola w detalu. Fotospacer z drukarkami Instax Fujifilm szlakiem fotografii Andrzeja Georgiewa",
+        "miejsce": "Fundacja Archeologia Fotografii",
+        "adres": "ul. Chłodna 20, Warszawa, Wola",
+        "godziny": "18:30 - 21:00",
+        "lat": 52.2380417,
+        "lng": 20.9901621
+    },
+    {
+        "wystawa": "Happening/Koncert/Performance/Spacer/Spotkanie/Warsztaty/Wernisaż/Wystawa/Zwiedzanie Wolny Weekend na Osiedlu Jazdów",
+        "miejsce": "Związek Stowarzyszeń Partnerstwo Otwarty Jazdów / Wolny Jazdów",
+        "adres": "Osiedle Jazdów, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2226552,
+        "lng": 21.0285713
+    },
+    {
+        "wystawa": "Wystawa Wspólny fundament - wystawa Uczniów Liceum Sztuk Plastycznych COSINUS im. Ludwiki Nitschowej",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Boleść 2 , Warszawa, Śródmieście",
+        "godziny": "16:00 - 21:00",
+        "lat": 52.2520609,
+        "lng": 21.0120162
+    },
+    {
+        "wystawa": "Pokaz/Spotkanie/Warsztaty/Wystawa/Zwiedzanie Współbrzmienia Błękitu na Brzeskiej",
+        "miejsce": "Fundacja Twoja Pasja",
+        "adres": "ul. Brzeska 20, Warszawa, Praga-Północ",
+        "godziny": "19:30 - 23:30",
+        "lat": 52.2531257,
+        "lng": 21.0414607
+    },
+    {
+        "wystawa": "Spotkanie/Wystawa Wystawa Agaty Borowej Galerii XX1",
+        "miejsce": "Galeria XX1 Mazowieckiego Instytutu Kultury",
+        "adres": "al. Jana Pawła II 36, Warszawa, Śródmieście",
+        "godziny": "18:00 - 22:00",
+        "lat": 52.2408284,
+        "lng": 20.995286
+    },
+    {
+        "wystawa": "Wystawa Wystawa Barbary Levittoux-Świderskiej",
+        "miejsce": "Galeria Art Rytel",
+        "adres": "ul. Dynasy 22, Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2392571,
+        "lng": 21.0221725
+    },
+    {
+        "wystawa": "Wystawa Wystawa Biblii",
+        "miejsce": "Ruch Chrześcijański Mt28",
+        "adres": "ul. Polnej Róży 1 D, Warszawa, Ursynów",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.1299558,
+        "lng": 21.0634959
+    },
+    {
+        "wystawa": "Film/Wystawa Wystawa harcerska Zuchy - najmłodsi członkowie ZHP",
+        "miejsce": "Filia Muzeum Harcerstwa w Ursusie",
+        "adres": "ul. Sosnkowskiego 16, Warszawa, Ursus",
+        "godziny": "16:00 - 23:30",
+        "lat": 52.1909673,
+        "lng": 20.8889381
+    },
+    {
+        "wystawa": "Wystawa Wystawa Krzysztofa Olszewskiego w Galerii Abakus SCEK",
+        "miejsce": "Stołeczne Centrum Edukacji Kulturalnej im. KEN",
+        "adres": "ul. Jezuicka 4, Warszawa, Śródmieście",
+        "godziny": "16:00 - 21:00",
+        "lat": 52.2496936,
+        "lng": 21.0139633
+    },
+    {
+        "wystawa": "Wykład/Wystawa/Zwiedzanie Wystawa prac Magdaleny Abakanowicz i Wandy Czełkowskiej",
+        "miejsce": "Warszawska Historyczna Pracownia Artystyczna Wandy Czełkowskiej",
+        "adres": "ul. Magazynowa 14 a , Warszawa, Mokotów",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.1861827,
+        "lng": 21.0054494
+    },
+    {
+        "wystawa": "Happening/Pokaz/Spotkanie/Wykład/Wystawa/Zwiedzanie Wystawa reliefów akustycznych i gawędy przy ognisku o Słowiańskich Świętach Agrarnych",
+        "miejsce": "Fundacja Dotknij Obrazu",
+        "adres": "ul. 3 Maja 11, Izabelin B",
+        "godziny": "17:00 - 22:00",
+        "lat": 52.2903454,
+        "lng": 20.8263733
+    },
+    {
+        "wystawa": "Wernisaż Wystawa sztuki: Too Much",
+        "miejsce": "Ogród Syrenich Śpiewów. Pracownia artystyczna i galeria",
+        "adres": "ul. Grzybowska 47a (pracownia ceramiki, wejście z ulicy), Warszawa, Wola",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.234286,
+        "lng": 20.9895256
+    },
+    {
+        "wystawa": "Wystawa Wystawa wybranych aneksów do dyplomów z Pracowni Rysunku i Koloru Wydziału Scenografii",
+        "miejsce": "Akademia Sztuk Pięknych w Warszawie",
+        "adres": "ul. Myśliwiecka 1A, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2177122,
+        "lng": 21.0362952
+    },
+    {
+        "wystawa": "Wystawa Wystawa “Ceramiczne Maryjki z praskich podwórek“ i fotografie Warszawy",
+        "miejsce": "Szuflada Galeria",
+        "adres": "ul. Kawęczyńska 4 , Warszawa, Praga-Północ",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2554046,
+        "lng": 21.0502541
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Wystawa “Plany na Przyszłość 2026“",
+        "miejsce": "ZODIAK Warszawski Pawilon Architektury",
+        "adres": "Pasaż Stefana Wiecheckiego Wiecha 4, Warszawa, Śródmieście",
+        "godziny": "16:00 - 00:00",
+        "lat": 52.2314513,
+        "lng": 21.012302
+    },
+    {
+        "wystawa": "Spotkanie/Wernisaż/Wystawa Wywracam oczami nawet podczas snu - wystawa w Varsztatovni",
+        "miejsce": "Varsztatovnia",
+        "adres": "ul. Dzielna 5, Warszawa, Wola",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2451197,
+        "lng": 20.9881414
+    },
+    {
+        "wystawa": "Film/Pokaz/Warsztaty/Wystawa/Zwiedzanie X Pawilon - znany i nieznany",
+        "miejsce": "Muzeum X Pawilonu Cytadeli Waszawskiej",
+        "adres": "ul. Skazańców 25, Warszawa, Żoliborz",
+        "godziny": "19:00 - 01:00",
+        "lat": 52.2665379,
+        "lng": 21.0013047
+    },
+    {
+        "wystawa": "Happening/Spacer/Zwiedzanie Zabytkowym autobusem w (rapującą) przeszłość Białołęki",
+        "miejsce": "Fundacja AVE / Urząd Dzielnicy Białołęka",
+        "adres": "ul. Modlińska 197, Warszawa, Warszawa, Białołęka",
+        "godziny": "22:00 - 00:00",
+        "lat": 52.3210419,
+        "lng": 20.9707657
+    },
+    {
+        "wystawa": "Wystawa Zachowajmy ich w pamięci - wystawa plenerowa",
+        "miejsce": "Muzeum Powstania Warszawskiego",
+        "adres": "ul. Wolska 182, Warszawa, Wola",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2250234,
+        "lng": 20.9339082
+    },
+    {
+        "wystawa": "Koncert/Wystawa/Zwiedzanie Zanurz się w Willi Waleria",
+        "miejsce": "Milanowskie Centrum Kultury",
+        "adres": "ul. Spacerowa 20, Milanówek",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.129508,
+        "lng": 20.6566849
+    },
+    {
+        "wystawa": "Warsztaty/Wykład/Zwiedzanie Zapach chleba o północy - Noc Muzeów w Piekarni Grzybki",
+        "miejsce": "Akademia Piekarza Grzybki",
+        "adres": "ul. Malownicza 33, Warszawa, Włochy",
+        "godziny": "16:00 - 01:00",
+        "lat": 52.1772503,
+        "lng": 20.9379763
+    },
+    {
+        "wystawa": "Koncert/Spotkanie/Warsztaty/Wykład/Zwiedzanie Ze Śmiercią Na Ty",
+        "miejsce": "Biuro Usług Pogrzebowych ANUBIS W. Kucharski",
+        "adres": "ul. Conrada 7, Warszawa, Bielany",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2711071,
+        "lng": 20.9277321
+    },
+    {
+        "wystawa": "Spotkanie/Zwiedzanie Zwiedzanie Centralnego Laboratorium w Warszawie",
+        "miejsce": "ALAB Laboratoria",
+        "adres": "ul. Zawodzie 22 , Warszawa, Mokotów",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.1841344,
+        "lng": 21.0841907
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Zwiedzanie dawnego Domu Partii",
+        "miejsce": "Centrum Bankowo-Finansowe Nowy Świat S.A.",
+        "adres": "ul. Nowy Świat 6/12, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2310388,
+        "lng": 21.0228086
+    },
+    {
+        "wystawa": "Pokaz/Spacer/Zwiedzanie Zwiedzanie dawnej fabryki Pollena śladami Białego Jelenia",
+        "miejsce": "AFI Home",
+        "adres": "ul. Szwedzka 20, Warszawa, Praga-Północ",
+        "godziny": "17:00 - 22:00",
+        "lat": 52.2635215,
+        "lng": 21.0449578
+    },
+    {
+        "wystawa": "Wystawa/Zwiedzanie Zwiedzanie ekspozycji Muzeum Powstania Warszawskiego",
+        "miejsce": "Muzeum Powstania Warszawskiego",
+        "adres": "ul. Grzybowska 79, Warszawa, Wola",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2321024,
+        "lng": 20.9813775
+    },
+    {
+        "wystawa": "Spacer/Zwiedzanie Zwiedzanie Elektrowni Powiśle z przewodnikiem",
+        "miejsce": "Elektrownia Powiśle",
+        "adres": "ul. Dobra 42, Warszawa, Śródmieście",
+        "godziny": "17:00 - 18:00",
+        "lat": 52.240774,
+        "lng": 21.0278317
+    },
+    {
+        "wystawa": "Zwiedzanie Zwiedzanie Gabinetu Prezydenta m.st. Warszawy",
+        "miejsce": "Urząd Miasta Stołecznego Warszawy",
+        "adres": "pl. Bankowy 3/5, Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2431512,
+        "lng": 21.0003446
+    },
+    {
+        "wystawa": "Zwiedzanie Zwiedzanie Galerii Lalek w Teatrze Baj",
+        "miejsce": "Teatr Baj",
+        "adres": "ul. Jagiellońska 28, Warszawa, Praga-Północ",
+        "godziny": "18:30 - 20:30",
+        "lat": 52.2524956,
+        "lng": 21.0346245
+    },
+    {
+        "wystawa": "Spotkanie/Zwiedzanie Zwiedzanie Teatru Syrena od kulis",
+        "miejsce": "Teatr Syrena",
+        "adres": "ul. Litewska 3, Warszawa, Śródmieście",
+        "godziny": "16:00 - 22:30",
+        "lat": 52.2164477,
+        "lng": 21.0220793
+    },
+    {
+        "wystawa": "Zwiedzanie Zwiedzanie Willi Żabińskich w Warszawskim ZOO",
+        "miejsce": "Miejski Ogród Zoologiczny im. Antoniny i Jana Żabińskich w Warszawie",
+        "adres": "ul. Ratuszowa 1/3, Warszawa, Praga-Północ",
+        "godziny": "20:00 - 23:00",
+        "lat": 52.2585469,
+        "lng": 21.0219718
+    },
+    {
+        "wystawa": "Pokaz/Spacer/Wykład/Zwiedzanie Zwiedzanie zabytkowej kamienicy Wolfa Krongolda",
+        "miejsce": "AFI Home",
+        "adres": "ul. Złota 83, Warszawa, Wola",
+        "godziny": "17:00 - 22:30",
+        "lat": 52.22891,
+        "lng": 20.994598
+    },
+    {
+        "wystawa": "Pokaz/Wystawa/Zwiedzanie Złote Syreny, Koralowce i Boginie - Noc Muzeów w Muzeum Azji i Pacyfiku",
+        "miejsce": "Muzuem Azji i Pacyfiku im. Andrzeja Wawrzyniaka w Warszawie",
+        "adres": "ul. Solec 24, Warszawa, Śródmieście",
+        "godziny": "18:00 - 01:00",
+        "lat": 52.2333984,
+        "lng": 21.0368378
+    },
+    {
+        "wystawa": "Zwiedzanie Złoty, złoto, niezależność - 10 lat Centrum Pieniądza NBP",
+        "miejsce": "Centrum Pieniądza NBP im. Sławomira S. Skrzypka",
+        "adres": "ul. Świętokrzyska 11/21 00-919 warszawa , Warszawa, Śródmieście",
+        "godziny": "18:00 - 00:00",
+        "lat": 52.2357552,
+        "lng": 21.0150822
+    },
+    {
+        "wystawa": "Wernisaż/Wystawa Łukasz Breitenbach. Malarstwo - wernisaż wystawy",
+        "miejsce": "Galeria Sztuki Inwestycyjnej 3u10 własność IMMOQEE Sp. z o.o.",
+        "adres": "ul. Chodkiewicza 3/U10, Warszawa, Mokotów",
+        "godziny": "16:00 - 22:00",
+        "lat": 52.2019295,
+        "lng": 20.9956029
+    },
+    {
+        "wystawa": "Wernisaż/Wystawa “Nowe miejsce“ - otwarcie wystawy w Galerii Beta16",
+        "miejsce": "Galeria Beta16",
+        "adres": "ul. Wilcza 18/1, Warszawa, Śródmieście",
+        "godziny": "18:00 - 23:00",
+        "lat": 52.2255601,
+        "lng": 21.0189839
     }
 ]
