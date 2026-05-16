@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Noc Muzeów - Mapa Offline</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <style>
+        /* Styl resetujący i dopasowujący pod ekran telefonu */
+        html, body {
+            padding: 0;
+            margin: 0;
+            width: 100%;
+            height: 100%;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            overflow: hidden;
+        }
+        #map {
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+        /* Pasek statusu offline */
+        #status-bar {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(44, 62, 80, 0.9);
+            color: white;
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 12px;
+            z-index: 1000;
+            pointer-events: none;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="status-bar">Aplikacja działa w trybie OFFLINE</div>
+    <div id="map"></div>
+
+    <script>
+        // 1. Inicjalizacja Mapy (środek ustawiony na Warszawę)
+        const map = L.map('map', {
+            zoomControl: false // wyłączamy domyślne przyciski, bo na telefonie steruje się gestami
+        }).setView([52.2297, 21.0122], 12);
+
+        // Dodanie przycisków zoomu w prawym dolnym rogu, by nie przeszkadzały palcom
+        L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+        // 2. Warstwa kafelków mapy
+        // Leaflet domyślnie pobiera kafelki z sieci. 
+        // UWAGA OFFLINE: Przeglądarka zapamięta ostatnio przeglądane rejony mapy. 
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        }).addTo(map);
+
+        // 3. Wczytywanie danych muzeów z pliku JSON
+        fetch('muzea.json')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(muzeum => {
+                    if (muzeum.lat && muzeum.lng) {
+                        
+                        // Formatowanie okienka popup zoptymalizowane pod ekrany dotykowe
+                        const trescPopup = `
+                            <div style="line-height: 1.4; max-width: 220px;">
+                                <h3 style="margin: 0 0 4px 0; font-size: 14px; color: #2c3e50;">${muzeum.wystawa}</h3>
+                                <p style="margin: 0 0 4px 0; font-weight: bold; color: #7f8c8d; font-size: 11px;">🏢 ${muzeum.miejsce}</p>
+                                <p style="margin: 0 0 4px 0; font-size: 11px; color: #16a085;"><b>🕒 Godziny:</b> ${muzeum.godziny}</p>
+                                <p style="margin: 0; font-size: 10px; color: #555; border-top: 1px solid #eee; padding-top: 4px;">📍 ${muzeum.adres}</p>
+                            </div>
+                        `;
+
+                        L.marker([muzeum.lat, muzeum.lng])
+                            .addTo(map)
+                            .bindPopup(trescPopup);
+                    }
+                });
+            })
+            .catch(error => console.error('Błąd ładowania punktów:', error));
+
+        // 4. Detekcja stanu sieci (informacja dla użytkownika)
+        function aktualizujStatusSieci() {
+            const bar = document.getElementById('status-bar');
+            if (!navigator.onLine) {
+                bar.style.display = 'block';
+            } else {
+                bar.style.display = 'none';
+            }
+        }
+        window.addEventListener('online', aktualizujStatusSieci);
+        window.addEventListener('offline', aktualizujStatusSieci);
+        aktualizujStatusSieci();
+
+        // ==========================================
+        // 5. MAGIA OFFLINE: Rejestracja Service Workera
+        // ==========================================
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                // Tworzymy kod Service Workera w locie jako Blob, aby nie potrzebować osobnego pliku js!
+                const swCode = `
+                    const CACHE_NAME = 'noc-muzeow-v1';
+                    const ASSETS = [
+                        './',
+                        './index.html',
+                        './muzea.json',
+                        'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
+                        'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
+                    ];
+
+                    // Instalacja i keszowanie plików aplikacji
+                    self.addEventListener('install', (e) => {
+                        e.waitUntil(
+                            caches.open(CACHE_NAME).then((cache) => {
+                                return cache.addAll(ASSETS);
+                            }).then(() => self.skipWaiting())
+                        );
+                    });
+
+                    // Aktywacja nowego cache
+                    self.addEventListener('activate', (e) => {
+                        e.waitUntil(
+                            caches.keys().then((keys) => {
+                                return Promise.all(
+                                    keys.map((key) => {
+                                        if (key !== CACHE_NAME) return caches.delete(key);
+                                    })
+                                );
+                            }).then(() => self.clients.claim())
+                        );
+                    });
+
+                    // Strategia: Najpierw Cache, potem Sieć (idealne dla trybu offline)
+                    self.addEventListener('fetch', (e) => {
+                        e.respondWith(
+                            caches.match(e.request).then((cachedResponse) => {
+                                if (cachedResponse) {
+                                    // Jeśli to kaflek mapy (obrazek), spróbuj też pobrać świeży z sieci w tle
+                                    if(e.request.url.includes('tile.openstreetmap.org')) {
+                                        fetch(e.request).then((networkResponse) => {
+                                            if(networkResponse.status === 200) {
+                                                caches.open(CACHE_NAME).then((cache) => cache.put(e.request, networkResponse));
+                                            }
+                                        }).catch(() => {});
+                                    }
+                                    return cachedResponse;
+                                }
+                                
+                                // Jeśli nie ma w pamięci podręcznej, pobierz z internetu i zapisz (np. nowe kafelki mapy)
+                                return fetch(e.request).then((networkResponse) => {
+                                    if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic' && !e.request.url.includes('tile.openstreetmap.org')) {
+                                        return networkResponse;
+                                    }
+                                    const responseToCache = networkResponse.clone();
+                                    caches.open(CACHE_NAME).then((cache) => {
+                                        cache.put(e.request, responseToCache);
+                                    });
+                                    return networkResponse;
+                                });
+                            })
+                        );
+                    });
+                `;
+
+                const blob = new Blob([swCode], { type: 'text/javascript' });
+                const swUrl = URL.createObjectURL(blob);
+
+                navigator.serviceWorker.register(swUrl, { scope: './' })
+                    .then(() => console.log('Service Worker zarejestrowany pomyślnie!'))
+                    .catch(err => console.error('Błąd rejestracji Service Workera:', err));
+            });
+        }
+    </script>
+</body>
+</html>
